@@ -1,0 +1,6 @@
+function multi (num1,num2){
+    return  num1 * num2
+}
+
+multi (3,6)
+18
