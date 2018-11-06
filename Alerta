@@ -1,0 +1,7 @@
+function myFunction() {
+  alert("Castilhos é bonito!");
+}
+
+myFunction()
+;
+
